@@ -4,6 +4,9 @@
 Created on Fri Apr 21 17:04:10 2017
 
 @author__ = 'Fran'
+
+Time series change point detection based on a fully parametrized 
+modeling of every date. Online mode, with new observation updating model state
 """
 
 from IPython.core.pylabtools import figsize
